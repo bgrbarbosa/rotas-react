@@ -1,0 +1,31 @@
+.container-product {
+    width: 960px;
+    height: 60px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: var(--color-bg-tertiary);
+}
+
+.product-items{
+    margin-top: 20px;
+}
+
+.produtcMenuItem {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;    
+    line-height: 19.36px;
+    
+    margin-left: 20px;
+    color: var(--color-font-primary);
+    text-decoration: none;
+}
+  
+  
+.produtcMenu-active {
+    font-weight: 700;
+}
+
+
